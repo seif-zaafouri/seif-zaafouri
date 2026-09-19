@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Seif, an engineering student at **CentraleSupélec / Université Paris-Saclay**, interested in **AI research, machine learning, LLM interpretability and scientific computing**.
+I'm Seif, an engineering student at **CentraleSupélec / Université Paris-Saclay**.
 
 🔎 Looking for an **end-of-studies AI / ML Research internship starting in April or May 2027**.
 
