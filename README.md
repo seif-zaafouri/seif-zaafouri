@@ -12,7 +12,7 @@ I'm Seif, an engineering student at **CentraleSupélec / Université Paris-Sacla
 
 ## 🧠 Experience & Research
 
-🛰️ **AI Research Scientist Intern — CEA Paris-Saclay**  
+🛰️ **AI Research Scientist Intern — [CEA Paris-Saclay](https://www.cea.fr/paris-saclay/)**  
 Research on **uncertainty quantification for large-scale radio-interferometric imaging**. Worked on deep-learning reconstruction and statistically reliable uncertainty estimates using equivariant bootstrap, conformal prediction and RCPS methods.  
 `Deep Learning` `Conformal Prediction` `RCPS` `Equivariant Bootstrap` `HPC`
 
@@ -45,6 +45,39 @@ Compared classical and neural approaches for temporal-pattern recognition, inclu
 [→ View project](https://github.com/seif-zaafouri/-Comparative-Analysis-of-Time-Series-Clustering-Methods)
 
 `Time Series` `Clustering` `LSTM` `Deep Learning`
+
+
+### 💹 Online Learning for Quantitative Finance
+
+Studied **online learning algorithms for dynamic resource allocation in financial markets**, including FTL, FTRL and VB-FTRL-qN, and designed a meta-algorithm to improve predictive performance.
+
+`Online Learning` `FTRL` `Optimization` `Quantitative Finance`
+
+### 🛰️ Change Detection from Satellite Imagery
+
+Built a machine-learning pipeline for **multi-class geographical change detection from satellite imagery**, including denoising, normalization, spatial feature extraction and model comparison.
+
+`XGBoost` `Random Forest` `k-NN` `Neural Networks` `Remote Sensing`
+
+### 🎙️ SNS — Singing Neural Studio
+
+Developing a local research prototype for **reference-guided vocal production transfer** while preserving the singer's identity.
+
+The pipeline combines source separation, melody-aware alignment and pitch correction, reference-conditioned audio processing, multi-track mixing and a roadmap toward differentiable DSP / learned audio effects.
+
+`Audio ML` `Demucs` `CREPE` `DTW` `Differentiable DSP` `PyTorch`
+
+### ⚽ Reality Fork — AI Football Simulation
+
+Building an experimental football engine for **counterfactual simulation: what would plausibly happen next if a player made a different decision in a real match state?**
+
+The AI roadmap focuses on three components:
+
+- a **learned football controller** trained through imitation learning to map player intent and match state to physically coherent actions;
+- a **spatio-temporal multi-agent model** combining player-interaction graphs with temporal modelling to predict player and ball trajectories;
+- **Reality Fork + Reality Critic**, generating multiple counterfactual futures and scoring their football plausibility against real trajectories and deterministic baselines.
+
+`Imitation Learning` `Graph Neural Networks` `Transformers` `Trajectory Prediction` `Counterfactual Generation`
 
 
 ## 📬 Contact
