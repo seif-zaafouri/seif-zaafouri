@@ -20,7 +20,7 @@ Research on **uncertainty quantification for large-scale radio-interferometric i
 Research on **model reduction and surrogate modelling for computationally expensive physical simulations**. Developed surrogate models and optimisation methods based on POD, Gaussian Processes, MLPs, Transolvers, Physics-Attention and Bayesian Optimization.  
 `POD` `Gaussian Processes` `MLP` `Physics-Attention` `Transolvers` `Bayesian Optimization`
 
-## 🚀 Selected Projects
+## 🎓 Academic Projects
 
 ### 🧠 LLM Interpretability — Internal Perturbation Detection
 
@@ -46,7 +46,6 @@ Compared classical and neural approaches for temporal-pattern recognition, inclu
 
 `Time Series` `Clustering` `LSTM` `Deep Learning`
 
-
 ### 💹 Online Learning for Quantitative Finance
 
 Studied **online learning algorithms for dynamic resource allocation in financial markets**, including FTL, FTRL and VB-FTRL-qN, and designed a meta-algorithm to improve predictive performance.
@@ -59,13 +58,7 @@ Built a machine-learning pipeline for **multi-class geographical change detectio
 
 `XGBoost` `Random Forest` `k-NN` `Neural Networks` `Remote Sensing`
 
-### 🎙️ SNS — Singing Neural Studio
-
-Developing a local research prototype for **reference-guided vocal production transfer** while preserving the singer's identity.
-
-The pipeline combines source separation, melody-aware alignment and pitch correction, reference-conditioned audio processing, multi-track mixing and a roadmap toward differentiable DSP / learned audio effects.
-
-`Audio ML` `Demucs` `CREPE` `DTW` `Differentiable DSP` `PyTorch`
+## 🛠️ Personal Projects
 
 ### ⚽ Reality Fork — AI Football Simulation
 
@@ -78,6 +71,14 @@ The AI roadmap focuses on three components:
 - **Reality Fork + Reality Critic**, generating multiple counterfactual futures and scoring their football plausibility against real trajectories and deterministic baselines.
 
 `Imitation Learning` `Graph Neural Networks` `Transformers` `Trajectory Prediction` `Counterfactual Generation`
+
+### 🎙️ SNS — Singing Neural Studio
+
+Developing a local research prototype for **reference-guided vocal production transfer** while preserving the singer's identity.
+
+The pipeline combines source separation, melody-aware alignment and pitch correction, reference-conditioned audio processing, multi-track mixing and a roadmap toward differentiable DSP / learned audio effects.
+
+`Audio ML` `Demucs` `CREPE` `DTW` `Differentiable DSP` `PyTorch`
 
 
 ## 📬 Contact
